@@ -1,28 +1,5 @@
-# 會員登入系統
-## 會員登入系統
-### 會員登入系統
-#### 會員登入系統
-##### 會員登入系統
-###### 會員登入系統hh
+# 作業練習  
 
-jghsadjgjgjhgjhgjgjhgjhgjhgjhggg<br>
-jgbjhggjgjgj
-<hr>
-jhgjhgjgjhgjg<br>
+##主題:資產計算,不管是動產還是不動產 
 
-[google](http://www.google.com)
-
-[yahoo](http://tw.yahoo.com)
-
-[練習](exam.txt)
-
-[school技術文件](doc/index.html)
-
-[講義](doc/6_JavaEEApplication.pdf)
-
-
-
-
-![咖啡](pic/c.jpg?raw=true)
-
-[demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
+##可以知道自己的總資產,也可以知道離自己的財務自由還有多遠
